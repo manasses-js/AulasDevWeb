@@ -1,0 +1,9 @@
+.bloco {
+    text-align: center;
+    border: 2px solid red;
+    background-color: rgba(0, 0, 0, 0.116);
+}
+#hibrido {
+    display: inline-block;
+    border: 2px solid red;
+}
